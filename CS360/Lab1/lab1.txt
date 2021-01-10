@@ -1,0 +1,3 @@
+Create a c file that contains the logic and structure for a person. This should include at the very least, marry, divorce, and child. You should be able to check who someone's spouse is and what children they have. I encourage you to play around and explore with additional methods you think might be interesting.
+
+Once you have the ability to create some people, create a linked list of them. This should be another structure of your own creation that can store people. Make some supplemental functions that can print all the names of the people in your list, print their spouses, and copy the list to a new one. If you have extra time, try to create a method that reverses the current list. Original list order should be the order that items were added.
